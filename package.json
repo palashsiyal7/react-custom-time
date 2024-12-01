@@ -1,6 +1,6 @@
 {
   "name": "time-input-palash",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "build": "webpack --mode production",
     "start": "webpack serve --mode development",
