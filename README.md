@@ -13,6 +13,7 @@ A reusable React time input component with dropdown suggestions for convenient t
 - **Accessibility**: Includes focus management and keyboard navigation.
 
 ---
+[Visit NPM](https://www.npmjs.com/package/time-input-palash?activeTab=readme)
 
 ## Installation
 
@@ -20,3 +21,4 @@ Install the package using npm:
 
 ```bash
 npm install time-input-palash
+
